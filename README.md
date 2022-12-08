@@ -40,6 +40,5 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanthad4&show_icons=true&locale=en" alt="himanthad4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanthad4&" alt="himanthad4" /></p>
