@@ -61,7 +61,7 @@
 
  
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randula98&langs_count=8&theme=github_dark)](https://github.com/Randula98/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21129476langs_count=8&theme=github_dark)](https://github.com/IT21129476/github-readme-stats)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanthad4&" alt="himanthad4" /></p>
