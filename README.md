@@ -59,9 +59,9 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" alt="mysql" width="40" height="40"/> </a> 
 
 
- 
+<!--  
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21129476langs_count=8&theme=github_dark)](https://github.com/IT21129476/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21129476langs_count=8&theme=github_dark)](https://github.com/IT21129476/github-readme-stats) -->
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanthad4&" alt="himanthad4" /></p>
