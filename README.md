@@ -52,7 +52,7 @@ href="https://www.python.org" target="_blank" rel="noreferrer">
 🔵<strong> Tools</strong>
  
  <img src="https://www.meme-arsenal.com/memes/035aff6446172e488b533b38ec120c5b.jpg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> </a> 
- <img src="![image](https://user-images.githubusercontent.com/87825907/206523329-5c3471e1-3bb9-4088-8aec-cb0e3ae68aa2.png)" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> </a> 
+ <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190395.png" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> </a> 
  
  
  
